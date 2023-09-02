@@ -27,8 +27,8 @@ dnf install -y \
 	util-linux-user neovim
 
 # git configuration
-git config --global user.name Sushrut1101
-git config --global user.email guptasushrut@gmail.com
+git config --global user.name nguyenhung9xdev2024
+git config --global user.email nguyenhung9xdev2024@gmail.com
 git config --global color.ui auto
 
 # zsh
